@@ -1,6 +1,3 @@
 Hello World!
 
-Hello Darkness my old friend
-I've come to talk with you again
-Because a visipn softly creeping
-Let's a see always sleeping.
+This is my little repository to batch codes. Take your time to use them, but credit me. :-)
